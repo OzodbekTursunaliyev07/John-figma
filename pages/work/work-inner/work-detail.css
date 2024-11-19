@@ -1,0 +1,71 @@
+@import "../../../css/main.css";
+
+.work-detail__title {
+  margin-top: 78px;
+  margin-bottom: 30px;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.47;
+  width: 506px;
+  height: 100px;
+}
+.work-detail__time {
+  display: flex;
+  margin-bottom: 23px;
+  span {
+    width: 62px;
+    height: 25px;
+    background-color: #ff7c7c;
+    color: #fff;
+    border-radius: 16px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.8rem;
+    margin-right: 17px;
+  }
+}
+.work-detail__describtion {
+  margin-bottom: 46px;
+  width: 681px;
+  height: 44px;
+}
+.work-detail__test {
+}
+.work-detail__car {
+}
+
+.img-dashboard {
+  width: 681px;
+  height: 460px;
+  margin-bottom: 54px;
+}
+.work-detail__test-h1 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 2;
+  width: 506px;
+  height: 45px;
+}
+.work-detail__test-h2 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 2.5;
+  width: 506px;
+  height: 82px;
+}
+
+.work-detail__test-p {
+  width: 677px;
+  height: 48px;
+  margin-bottom: 30px;
+}
+
+.img-car {
+  width: 681px;
+  height: 460px;
+  margin-bottom: 27px;
+}
+.img-chart {
+  width: 681px;
+  height: 460px;
+}

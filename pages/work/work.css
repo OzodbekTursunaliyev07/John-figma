@@ -1,0 +1,11 @@
+@import "../../css/main.css";
+
+.work-title {
+  margin-top: 90px;
+  margin-bottom: 25px;
+}
+
+.work-card__describtion {
+  width: 418px;
+  height: 93px;
+}

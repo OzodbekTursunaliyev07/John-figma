@@ -1,0 +1,43 @@
+@import "../../css/main.css";
+
+.blog-title {
+  margin-top: 90px;
+  font-size: 4.4rem;
+  font-weight: 700;
+  line-height: 6rem;
+}
+.blog-cards {
+  margin-top: 23px;
+  margin-bottom: 53px;
+}
+.blog-card {
+  margin-top: 32px;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 29px;
+}
+.blog-card__title {
+  margin-bottom: 16px;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 4.4rem;
+}
+.card-date {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 3rem;
+  border-right: 1px solid #000000;
+  padding-right: 26px;
+}
+.card-location {
+  margin-left: 20px;
+  color: #8695a4;
+  font-family: Heebo;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 3rem;
+}
+.blog-card__describtion {
+  width: 682px;
+  height: 43px;
+  margin-top: 15px;
+}
